@@ -6,7 +6,7 @@
 # Install dependencies
 
 ```
-pip install -f requirements.txt
+pip install -r requirements.txt
 ```
 
 # Start test server
